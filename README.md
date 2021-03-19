@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @kostadinkadoncheva
-- 👀 I’m interested in Software Testing 
+- 👋 Hi, I’m @kostadinkadoncheva. I recently finished a course of Software Testing. 
 - 🌱 I’m currently learning Java .
-- 💞️ I’m looking to collaborate on testing projects 
+- 💞️ I’m looking to collaborate on testing projects.
 
 
 <!---
