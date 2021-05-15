@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kostadinkadoncheva. I recently finished a course of Software Testing. 
-- 🌱 I’m currently learning Java .
+- 🌱 I’m currently learning C# .
 - 💞️ I’m looking to collaborate on testing projects.
 
 
